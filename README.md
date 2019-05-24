@@ -1,7 +1,11 @@
 # Content-Highlighter
+
 Details -
+
 a) Select the text from blog(paragraph) 
-b) Option asking for Highlight 
+
+b) Option asking for Highlight
+
 c) Change the color of selected content in original element. 
 
 # Implementation details-
@@ -30,8 +34,12 @@ c) Change the color of selected content in original element.
      1. Queries the data from the array of objects 
          The button uses this data to highlight/dehighlight text
  
- # Hosting 
-    (https://contenthighlighter.000webhostapp.com/)
-    The website is hosted on the above link
-    For best results-
-    Use in Chrome/Firefox Laptop
+ # Hosting
+[Content-Highlighter](https://contenthighlighter.000webhostapp.com)
+ 
+ The website is hosted on the above link
+ 
+ For best results-
+ 
+ Use in Chrome/Firefox Laptop
+ 
