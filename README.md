@@ -29,5 +29,9 @@ c) Change the color of selected content in original element.
  # d) Mouseover Event over Highlighted Text
      1. Queries the data from the array of objects 
          The button uses this data to highlight/dehighlight text
-         
  
+ # Hosting 
+    https://contenthighlighter.000webhostapp.com/
+    The website is hosted on the above link
+    For best results-
+    Use in Chrome/Firefox Laptop
