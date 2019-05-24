@@ -1,8 +1,8 @@
 # Content-Highlighter
 Details -
-a) Select the text from blog(paragraph) \n
-b) Option asking for Highlight \n
-c) Change the color of selected content in original element. \n
+a) Select the text from blog(paragraph) 
+b) Option asking for Highlight 
+c) Change the color of selected content in original element. 
 
 # Implementation details-
 
